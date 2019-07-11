@@ -6,7 +6,7 @@ A deep learning model to estimate the pose of human body.
 2. Run all cells in "OpenPose_Notebook.ipynb"
 
 ## Applications
-1. This models helps us to track the bodu language of soccer players and analyse their strengths and weak points.
+1. This models helps us to track the body language of soccer players and analyse their strengths and weak points.
 2. Can detect robbers at ATM stations, etc.
 
 ## Limitations and Future Scope
