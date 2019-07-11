@@ -12,10 +12,10 @@ A deep learning model to estimate the pose of human body.
 ## Limitations and Future Scope
 This model is working well with images having only one human. This should be enhanced to handle images with more than one person.
 
+## Sample Ouput
+![](https://github.com/chandrakanth-gudavalli/HumanPoseEstimation/blob/master/Images/Output.png)
+
 ## References
 1. https://docs.opencv.org/
 2. https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
 3. https://github.com/spmallick/learnopencv/tree/master/OpenPose
-
-## Sample Ouput
-![Output](https://github.com/chandrakanth-gudavalli/HumanPoseEstimation/blob/master/Images/Output.png)
